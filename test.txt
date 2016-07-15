@@ -1,6 +1,9 @@
 Hello World
 2nd line
+<<<<<<< HEAD
 modified
 Squash test
 1st squash test
 2nd
+=======
+>>>>>>> beb7a27... test reset
