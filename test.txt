@@ -1,7 +1,7 @@
 Hello World
-modifie
-ntermediate
+modified
+intermediate
 1st modification
 2nd
 3rd
-4thd
+4th
