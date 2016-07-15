@@ -1,3 +1,6 @@
 Hello World
 2nd line
 modified
+Squash test
+1st squash test
+2nd
